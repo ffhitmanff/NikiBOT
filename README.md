@@ -8,15 +8,16 @@ Simple WhatsApp Bot
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Arya274/Arya-DN
-> cd Arya-DN
+> git clone https://github.com/ffhitmanff/NikiBOT
+> cd NikiBOT
 > npm install
 ```
 ###### Run ♐
 ```bash
 > node . [<session name>] (session name is optional)
 ```
-
+Thanx To 
+-ArugaZ- -HITMAN BOT- -LOS3 BOT-
 ---------
 
 ### FOR WINDOWS/VPS/RDP USER
@@ -25,7 +26,7 @@ Simple WhatsApp Bot
 * Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/Arya274/Arya-DN
+> git clone https://github.com/ffhitmanff/NikiBOT
 > cd Arya-DN
 > npm install
 ```
@@ -35,4 +36,4 @@ Simple WhatsApp Bot
 ```
 
 # About 🖇️
-Youtube: Drawl Nag [`Link`](https://youtube.com/c/DrawlNag) <sosmed>
+Youtube: Hitman Ff [`Link`](https://youtube.com/channel/UCpBrUqiuiZq4FWkf9oJZDLg) <sosmed>
